@@ -1,2 +1,2 @@
-# Resume-LK
+# Resume
 My resume
